@@ -5,8 +5,10 @@
 
 mod message_slider;
 mod spectrum;
+mod timeseries;
 mod waterfall;
 
 pub use message_slider::*;
 pub use spectrum::*;
+pub use timeseries::*;
 pub use waterfall::*;
